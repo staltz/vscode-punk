@@ -4,6 +4,10 @@
   "description": "A neon green (dark) theme",
   "version": "0.0.1",
   "publisher": "staltz",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:staltz/vscode-punk.git"
+  },
   "engines": {
     "vscode": "^1.20.0"
   },
