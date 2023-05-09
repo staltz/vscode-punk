@@ -1,0 +1,22 @@
+{
+  "name": "punk",
+  "displayName": "Punk",
+  "description": "A neon green (dark) theme",
+  "version": "0.0.1",
+  "publisher": "staltz",
+  "engines": {
+    "vscode": "^1.20.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Punk",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Punk-color-theme.json"
+      }
+    ]
+  }
+}
