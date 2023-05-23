@@ -30,7 +30,7 @@
     "gitDecoration.modifiedResourceForeground": "#00caff",
     "gitDecoration.conflictingResourceForeground": "#ff5522",
     "gitDecoration.ignoredResourceForeground": "#3a7058",
-    "scrollbarSlider.background": "#00FF8815",
+    "scrollbarSlider.background": "#00FF8818",
     "scrollbarSlider.hoverBackground": "#00FF8835",
     "scrollbarSlider.activeBackground": "#00FF8820",
     "list.warningForeground": "#ff9100",
