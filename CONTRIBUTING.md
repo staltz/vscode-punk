@@ -1,0 +1,3 @@
+- Bump verison in package.json
+- vsce package (from `npm install -g @vscode/vsce`)
+- Upload it to microsoft's webpage
